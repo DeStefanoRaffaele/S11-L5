@@ -1,0 +1,46 @@
+File Excel "SigarettaElettronica":
+
+	https://docs.google.com/spreadsheets/d/16TkuUhXmhlrK_ilRW56e6_JNb5hksv0k9OuOZdzPljA/edit?usp=sharing
+
+File Excel "TestSigarettaClassica":
+
+	https://docs.google.com/spreadsheets/d/1i-vfWDbSgGwu4AVIEjVGFD5TRNKBT4ubE7huiZL5G8M/edit?usp=sharing
+
+File Google Looker Studio:
+
+	https://lookerstudio.google.com/reporting/957ea6cc-a90a-42fc-a259-7ae618f5c5fd
+
+---------------------------------------------------------------------------------------------------------------------
+REPORT DATA MEDITATION / SIGARETTA ELETTRONICA
+
+Durante il mese di Dicembre 2023, ho monitorato attentamente il mio consumo di sigaretta elettronica. 
+Nel corso del mese, ho effettuato un totale di 4351 "puff". 
+Ho notato una variazione significativa nei consumi giornalieri, con un chiaro aumento 
+durante i giorni festivi e nei fine settimana rispetto ai giorni lavorativi.
+
+In termini di liquido da svapo, ho utilizzato complessivamente 54 ml nel corso del mese, 
+riempiendo il serbatoio completamente ad ogni ricarica, pari a 4.5 ml di liquido.
+
+Inoltre, ho esaminato il numero di volte in cui ho caricato completamente la batteria del mio dispositivo, 
+annotando con " Vero" o "Falso" se è avvenuta o meno una ricarica completa.
+
+---------------------------------------------------------------------------------------------------------------------
+REPORT TEST SIGARETTA CLASSICA
+
+Durante l'analisi del dataset sul consumo di sigarette in base all'età e al sesso, sono emersi i seguenti risultati:
+
+Su un totale di 881 intervistati, 400 si sono dichiarati fumatori, mentre 441 non lo sono. 
+Di questi non fumatori, la maggioranza è rappresentata da individui di sesso femminile. 
+Tuttavia, solo il 42.2% delle 491 donne intervistate si considera fumatrice. 
+Al contrario, tra gli uomini su 350 intervistati, il 55.1% si dichiara fumatore.
+
+La media generale di sigarette fumate, probabilmente su base settimanale, è di 87.4. 
+Questa media aumenta notevolmente per gli uomini, raggiungendo 124.7 sigarette settimanali.
+
+Analizzando l'età, si nota un picco di consumo compreso tra i 40 ei 50 anni, 
+con una diminuzione successiva dopo i 50 anni.
+
+Infine, abbiamo confrontato il consumo di sigarette con la frequenza cardiaca media e abbiamo osservato
+che questo dato non varia significativamente tra fumatori e non fumatori o tra uomini e donne. 
+Questo suggerisce che il consumo di sigarette potrebbe non influire in modo significativo 
+sulla frequenza cardiaca media.
